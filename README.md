@@ -25,4 +25,6 @@ CSE304 Assignment1
 # How to test
 
 $ javac [Algorithm_file]
+
+
 $ time java [Algorithm_file_name] ./[Input_Data_Name].csv [minimum_support]
