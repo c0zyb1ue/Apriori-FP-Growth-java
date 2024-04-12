@@ -19,3 +19,10 @@ CSE304 Assignment1
 
 
   -4 groceries.csv : 30000 transactions
+
+
+
+# How to test
+
+$ javac [Algorithm_file]
+$ time java [Algorithm_file_name] ./[Input_Data_Name].csv [minimum_support]
