@@ -7,6 +7,8 @@ CSE304 Assignment1
 
 
 + input data set
+
++ 
   -1 groceries.csv : orginal dataset
 
 
