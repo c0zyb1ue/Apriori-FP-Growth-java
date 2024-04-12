@@ -1,4 +1,4 @@
-CSE304 Assignment1
+# CSE304 Assignment1
 
 1. A1_G11_t1.java : apriori algorithm
 
@@ -22,7 +22,7 @@ CSE304 Assignment1
 
 
 
-# How to test
+## How to test
 
 $ javac [Algorithm_file]
 
